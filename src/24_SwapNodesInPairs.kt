@@ -1,5 +1,3 @@
-package LeetCode
-
 class Solution24 {
     fun swapPairs(head: ListNode?): ListNode? {
         val next = head?.next
