@@ -4,7 +4,7 @@ class Solution51 {
 
     @Test
     fun test() {
-        solveNQueen(3).also {
+        solveNQueens(4).also {
             for (i in it) {
                 println("------")
                 println(i.joinToString(separator = "\n"))
@@ -13,52 +13,44 @@ class Solution51 {
     }
 
 
-    fun solveNQueen(n: Int): List<List<String>> {
+    fun solveNQueens(n: Int): List<List<String>> {
         val ans = mutableListOf<List<String>>()
-        val flags = BooleanArray(n)
-        solveNQueenStep(IntArray(n) { -1 }, 0, flags, ans)
+        solveNQueenStep(IntArray(n) { -1 }, n, 0, ans)
         return ans
     }
 
-    private fun solveNQueenStep(array: IntArray, i: Int, flags: BooleanArray, ans: MutableList<List<String>>) {
-        if (i < flags.size) {
-            for (x in 0 until flags.size) {
-                if (check(array, flags, i, x)) {
-                    flags[x] = true
+    private fun solveNQueenStep(array: IntArray, n: Int, i: Int, ans: MutableList<List<String>>) {
+        if (i < n) {
+            for (x in 0 until n) {
+                if (checkItem(i, x, array)) {
                     array[i] = x
-                    if (i == flags.size - 1) {
-                        val result = MutableList<String>(flags.size) { "" }
-                        val charArray = CharArray(flags.size) { '.' }
+                    if (i == n - 1) {
+                        val result = MutableList<String>(n) { "" }
+                        val charArray = CharArray(n) { '.' }
                         for (y in 0 until array.size) {
                             charArray[array[y]] = 'Q'
                             result[y] = charArray.joinToString(separator = "")
                             charArray[array[y]] = '.'
                         }
-
                         ans.add(result)
 
                     } else {
-                        solveNQueenStep(array, i + 1, flags, ans)
+                        solveNQueenStep(array, n, i + 1, ans)
                     }
                     array[i] = -1
-                    flags[x] = false
                 }
 
             }
         }
     }
 
-    private fun check(array: IntArray, flags: BooleanArray, i: Int, x: Int): Boolean {
-
-        if (flags[x]) {
+    fun checkItem(row: Int, col: Int, array: IntArray): Boolean {
+        if (array[row] != -1) {
             return false
         }
-
-        if (i == 0) {
-            return true
-        }
-        return array.filterIndexed { index, value -> value != -1 && Math.abs(x - value).toFloat() / (i - index) == 1f }.isEmpty()
+        return array.filterIndexed { index, value ->
+            value != -1 &&
+                    (value == col || Math.abs(col - value).toFloat() / (row - index) == 1f)
+        }.isEmpty()
     }
-
-
 }
