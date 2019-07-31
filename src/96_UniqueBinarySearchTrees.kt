@@ -29,20 +29,4 @@ class Solution96 {
         }
         return array[n]
     }
-
-    fun numTreeByStep(n: Int, index: Int) {
-        if (index == n) {
-            ans++
-        } else {
-            numTreeByStep(n, index + 1)
-            numTreeByStep(n, index + 1)
-            if (index <= n - 2) {
-                numTreeByStep(n, index + 2)
-                if (index < n - 2) {
-                    numTreeByStep(n, index + 2)
-                }
-
-            }
-        }
-    }
 }
