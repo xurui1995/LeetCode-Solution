@@ -25,7 +25,7 @@ class Solution106 {
             }
         }
         if (divide != startIn) {
-            root.left = buildTree(inorder, startIn, divide - 1, postorder, divide - startIn)
+            root.left = buildTree(inorder, startIn, divide - 1, postorder, endPost - (endIn - divide + 1))
         }
         if (divide != endIn) {
             root.right = buildTree(inorder, divide + 1, endIn, postorder, endPost - 1)
