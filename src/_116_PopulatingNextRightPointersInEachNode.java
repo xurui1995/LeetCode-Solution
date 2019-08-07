@@ -17,35 +17,20 @@ class Solution116 {
         }
     }
 
+
     public Node connect(Node root) {
-        if (root != null) {
-            connectStep(root, root, root);
+        if (root == null) {
+            return root;
         }
+
+        if (root.left != null) {
+            root.left.next = root.right;
+            if (root.next != null) {
+                root.right.next = root.next.left;
+            }
+        }
+        connect(root.left);
+        connect(root.right);
         return root;
-    }
-
-    private boolean isLeaf(Node root) {
-        return (root.left == null && root.right == null);
-    }
-
-    private void connectStep(Node root, Node head, Node temp) {
-        if (isLeaf(root)) {
-            return;
-        }
-        if (temp == head) {
-            head = root.left;
-            temp = root.right;
-            root.left.next = root.right;
-        } else {
-            root.left.next = root.right;
-            temp.next = root.left;
-            temp = root.right;
-        }
-        if (root.next == null) {
-            temp = head;
-            connectStep(head, head, temp);
-        } else {
-            connectStep(root.next, head, temp);
-        }
     }
 }
