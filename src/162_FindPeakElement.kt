@@ -15,11 +15,22 @@ class Solution162 {
         if (nums.size == 1) {
             return 0
         }
-        val headIsUp = nums[0] < nums[1]
-        val tailIsUp = nums.last() > nums[nums.lastIndex - 1]
-        return findPeakElement(nums, headIsUp, tailIsUp, 0, nums.lastIndex)
-
+        var left = 0
+        var right = nums.lastIndex
+        while (left + 1< right) {
+            val mid = left + (right - left)/2
+            if (isPeak(nums, mid)) {
+                return mid
+            }
+            if (nums[mid] < nums[mid+1]) {
+                left = mid
+            } else {
+                right = mid
+            }
+        }
+        return if (nums[left] > nums[right]) left else right
     }
+
 
     fun isPeak(nums: IntArray, index: Int): Boolean {
         val left = index == 0 || nums[index] > nums[index - 1]
@@ -27,37 +38,7 @@ class Solution162 {
         return left && right
     }
 
-    fun findPeakElement(nums: IntArray, isHeadUp: Boolean, isTailUp: Boolean, start: Int, end: Int): Int {
-        val mid = start + (end - start) / 2
-
-        if (start + 1 == end || start == end) {
-            if (isPeak(nums, start)) {
-                return start
-            } else if (isPeak(nums, end)) {
-                return end
-            } else {
-                return -1
-            }
-        }
 
 
-        if (isPeak(nums, mid)) {
-            return mid
-        }
-
-        val isMidUp = nums[mid - 1] < nums[mid]
-
-        if (isHeadUp && !isMidUp) {
-            return findPeakElement(nums, isHeadUp, isMidUp, start, mid)
-        } else if (!isTailUp && isMidUp) {
-            return findPeakElement(nums, isHeadUp, isMidUp, mid + 1, end)
-        } else {
-            var a = findPeakElement(nums, isHeadUp, isMidUp, start, mid)
-            if (a == -1) {
-                a = findPeakElement(nums, isHeadUp, isMidUp, mid + 1, end)
-            }
-            return a
-        }
-    }
 
 }
