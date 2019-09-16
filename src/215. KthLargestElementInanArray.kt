@@ -5,6 +5,7 @@ class Solution215 {
     @Test
     fun test() {
         println(findKthLargest(intArrayOf(2,1), 1))
+        println(findKthLargest(intArrayOf(3,3,3,3,3,3,3), 1))
     }
 
     fun findKthLargest(nums: IntArray, k: Int): Int {
@@ -28,11 +29,11 @@ class Solution215 {
         var varFrom = from + 1
         var varEnd = end
         while (true) {
-            while (varFrom <= varEnd && nums[varFrom] < nums[from]) {
+            while (varFrom <= varEnd && nums[varFrom] <= nums[from]) {
                 varFrom++
             }
 
-            while (varEnd >= varFrom && nums[varEnd] > nums[from]) {
+            while (varEnd >= varFrom && nums[varEnd] >= nums[from]) {
                 varEnd--
             }
 
