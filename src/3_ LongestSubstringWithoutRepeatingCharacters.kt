@@ -1,7 +1,7 @@
 import org.junit.Test
 import kotlin.math.max
 
-class Solution2 {
+class Solution3 {
 
     @Test
     fun test() {
