@@ -1,4 +1,4 @@
-package javacode;
+package javacode.binarysearch;
 
 import org.junit.Test;
 
