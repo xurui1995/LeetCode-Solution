@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b595bdda-c953-4077-8262-7169a053de6f" name="Default Changelist" comment="add Solution875">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/Solution15_3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/Solution378.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacode/Solution3_LongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/100_SameTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/100_SameTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/101_SymmetricTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/101_SymmetricTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1025_DivisorGame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/1025_DivisorGame.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/102_BinaryTreeLevelOrderTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/102_BinaryTreeLevelOrderTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/103_BinaryTreeZigzagLevelOrderTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/103_BinaryTreeZigzagLevelOrderTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/104_MaximumDepthOfBinaryTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/104_MaximumDepthOfBinaryTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/105_ConstructBinaryTreeFromPreorderandInorder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/105_ConstructBinaryTreeFromPreorderandInorder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/106_ConstructBinaryTreefromInorderAndPostorderTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/106_ConstructBinaryTreefromInorderAndPostorderTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/107_BinaryTreeLevelOrderTraversal_II.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/107_BinaryTreeLevelOrderTraversal_II.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/108_ConvertSortedArrayToBinarySearchTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/108_ConvertSortedArrayToBinarySearchTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/10_RegularExpressionMatching.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/10_RegularExpressionMatching.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/110_BalancedBinaryTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/110_BalancedBinaryTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/111_MinimumDepthOfBinaryTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/111_MinimumDepthOfBinaryTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/112_PathSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/112_PathSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/113_PathSumII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/113_PathSumII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/114_FlattenBinaryTreeToLinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/114_FlattenBinaryTreeToLinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/118_Pascal'sTriangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/118_Pascal'sTriangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/119_Pascal'sTriangleII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/119_Pascal'sTriangleII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/120_Triangle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/120_Triangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/121_BestTimeToBuyAndSellStock.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/121_BestTimeToBuyAndSellStock.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/122_BestTimeToBuyAndSellStockII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/122_BestTimeToBuyAndSellStockII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/123_BestTimeToBuyAndSellStockIII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/123_BestTimeToBuyAndSellStockIII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/125_Valid_Palindrome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/125_Valid_Palindrome.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/129_SumRootToLeafNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/129_SumRootToLeafNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/130_SurroundedRegions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/130_SurroundedRegions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/131_PalindromePartitioning.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/131_PalindromePartitioning.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/136_SingleNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/136_SingleNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/137_SingleNumberII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/137_SingleNumberII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/139_WordBreak.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/139_WordBreak.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/13_RomanToInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/13_RomanToInteger.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/144_BinaryTreePreorderTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/144_BinaryTreePreorderTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/145_BinaryTreePostorder.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/145_BinaryTreePostorder.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/146_LRUCache.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/146_LRUCache.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/147_InsertionSortList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/147_InsertionSortList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/148_SortList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/148_SortList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/150_EvaluateReversePolishNotation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/150_EvaluateReversePolishNotation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/151_ReverseWordsInAString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/151_ReverseWordsInAString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/152_MaximumProductSubarray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/152_MaximumProductSubarray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/153_ FindMinimumInRotatedSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/153_ FindMinimumInRotatedSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/155_MinStack.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/155_MinStack.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/15_3Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/15_3Sum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/162_FindPeakElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/162_FindPeakElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/165_CompareVersionNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/165_CompareVersionNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/166_FractionToRecurringDecimal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/166_FractionToRecurringDecimal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/167_TwoSumII_InputArrayIsSorted.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/167_TwoSumII_InputArrayIsSorted.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/168_ExcelSheetColumnTitle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/168_ExcelSheetColumnTitle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/169_MajorityElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/169_MajorityElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/171_ExcelSheetColumnNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/171_ExcelSheetColumnNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/173_BinarySearchTreeIterator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/173_BinarySearchTreeIterator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/179_LargestNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/179_LargestNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/17_Letter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/17_Letter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/189_RotateArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/189_RotateArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/18_4Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/18_4Sum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/198_HouseRobber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/198_HouseRobber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/199_BinaryTreeRightSideView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/199_BinaryTreeRightSideView.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/19_RemoveNthNodeFromEndOfList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/19_RemoveNthNodeFromEndOfList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1_2Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/1_2Sum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/201_BitwiseANDofNumbersRange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/201_BitwiseANDofNumbersRange.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/202_HappyNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/202_HappyNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/203_RemoveLinkedListElements.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/203_RemoveLinkedListElements.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/204_CountPrimes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/204_CountPrimes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/205_IsomorphicStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/205_IsomorphicStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/206_ReverseLinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/206_ReverseLinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/209_MinimumSizeSubarraySum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/209_MinimumSizeSubarraySum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/20_VaildParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/20_VaildParentheses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/213_HouseRobberII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/213_HouseRobberII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/215. KthLargestElementInanArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/215. KthLargestElementInanArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/216_CombinationSumIII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/216_CombinationSumIII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/217_ContainsDuplicate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/217_ContainsDuplicate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/219_ContainsDuplicateII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/219_ContainsDuplicateII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/21_MergeTwoSortedLists.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/21_MergeTwoSortedLists.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/222_CountCompleteTreeNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/222_CountCompleteTreeNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/223_RectangleArea.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/223_RectangleArea.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/225_ImplementStackUsingQueues.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/225_ImplementStackUsingQueues.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/227_BasicCalculatorII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/227_BasicCalculatorII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/228_SummaryRanges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/228_SummaryRanges.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/22_GenerateParentheses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/22_GenerateParentheses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/230_KthSmallElementInBST.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/230_KthSmallElementInBST.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/231_PowerOfTwo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/231_PowerOfTwo.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/232_ImplementQueueUsingStacks.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/232_ImplementQueueUsingStacks.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/234_PalindromeLinkedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/234_PalindromeLinkedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/238_ProductOfArrayExceptSelf.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/238_ProductOfArrayExceptSelf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/240_SearchA2DMatrixII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/240_SearchA2DMatrixII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/242_ValidAnagram.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/242_ValidAnagram.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/24_SwapNodesInPairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/24_SwapNodesInPairs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/258_AddDigits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/258_AddDigits.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/25_ReverseNodesInKGroup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/25_ReverseNodesInKGroup.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/260_SingleNumberIII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/260_SingleNumberIII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/263_UglyNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/263_UglyNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/264_UglyNumberII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/264_UglyNumberII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/268_MissingNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/268_MissingNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/26_RemoveDuplicatesFromSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/26_RemoveDuplicatesFromSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/274_H-Index.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/274_H-Index.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/275_H-IndexII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/275_H-IndexII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/279_PerfectSquares.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/279_PerfectSquares.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/27_RemoveElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/27_RemoveElement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/283_MoveZeroes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/283_MoveZeroes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/287_FindTheDuplicateNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/287_FindTheDuplicateNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/289_GameOfLife.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/289_GameOfLife.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/28_ImplementStrStr().kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/28_ImplementStrStr().kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/290_WordPattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/290_WordPattern.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/292_NimGame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/292_NimGame.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/299_BullsAndCows.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/299_BullsAndCows.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/2_AddTwoNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/2_AddTwoNumbers.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/300_LongestIncreasingSubsequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/300_LongestIncreasingSubsequence.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/304_RangeSumQuery2D-Immutable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/304_RangeSumQuery2D-Immutable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/313_RangeSumQuery-Immutable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/313_RangeSumQuery-Immutable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/31_NextPermutation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/31_NextPermutation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/322_CoinChange.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/322_CoinChange.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/338_CountingBits.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/338_CountingBits.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/33_SearchInRotatedSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/33_SearchInRotatedSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/34_FindFirstAndLastPositionOfElementInSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/34_FindFirstAndLastPositionOfElementInSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/35_SearchInsertPosition.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/35_SearchInsertPosition.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/36_ValidSudoku.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/36_ValidSudoku.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/38_CountAndSay.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/38_CountAndSay.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/39_CombinationSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/39_CombinationSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3_ LongestSubstringWithoutRepeatingCharacters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/3_ LongestSubstringWithoutRepeatingCharacters.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/40_CombinationSumII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/40_CombinationSumII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/41_FirstMissingPositive.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/41_FirstMissingPositive.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/43_MultiplyStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/43_MultiplyStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/45_JumpGameII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/45_JumpGameII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/46_Permutations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/46_Permutations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/47_PermutationsII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/47_PermutationsII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/48_RotateImage.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/48_RotateImage.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/49_GroupAnagrams.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/49_GroupAnagrams.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/4_MedianOfTwoSortedArrays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/4_MedianOfTwoSortedArrays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/50_Pow(x,n).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/50_Pow(x,n).kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/51_N-Queens.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/51_N-Queens.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/525_ContiguousArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/525_ContiguousArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/52_N-QueensII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/52_N-QueensII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/53_MaximumSubarray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/53_MaximumSubarray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/543_DiameterOfBinaryTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/543_DiameterOfBinaryTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/54_SpiralMatrix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/54_SpiralMatrix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/55_JumpGame.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/55_JumpGame.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/56_MergeIntervals.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/56_MergeIntervals.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/57_InsertInterval.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/57_InsertInterval.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/58_LengthOfLastWord.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/58_LengthOfLastWord.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/59_SpiralMatrixII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/59_SpiralMatrixII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/5_LongestPalindromicSubstring.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/5_LongestPalindromicSubstring.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/60_PermutationSequence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/60_PermutationSequence.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/61_RotateList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/61_RotateList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/62_UniquePaths.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/62_UniquePaths.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/63_UniquePathsII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/63_UniquePathsII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/64_MinimumPathSum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/64_MinimumPathSum.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/66_PlusOne.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/66_PlusOne.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/67_AddBinary.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/67_AddBinary.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/69_Sqrt(x).kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/69_Sqrt(x).kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/70_ClimbingStairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/70_ClimbingStairs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/71_SimplifyPath.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/71_SimplifyPath.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/72_EditDistance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/72_EditDistance.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/73_SetMatrixZeroes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/746_MinCostClimbingStairs.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/746_MinCostClimbingStairs.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/74_SearchA2DMatrix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/74_SearchA2DMatrix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/75_SortColors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/75_SortColors.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/77_Combinations.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/77_Combinations.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/78_Subsets.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/78_Subsets.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/79_WordSearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/79_WordSearch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/7_ReverseInteger.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/7_ReverseInteger.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/80_RemoveDuplicatesFromSortedArrayII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/80_RemoveDuplicatesFromSortedArrayII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/81_SearchInRotatedSortedArrayII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/81_SearchInRotatedSortedArrayII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/82_RemoveDuplicatesfromSortedListII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/82_RemoveDuplicatesfromSortedListII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/83_RemoveDuplicatesFromSortedList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/83_RemoveDuplicatesFromSortedList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/845_LongestMountainInArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/845_LongestMountainInArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/86_PartitionList.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/86_PartitionList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/88_MegeSortedArray.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/88_MegeSortedArray.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/89_GrayCode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/89_GrayCode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/90_SubsetII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/90_SubsetII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/91_DecodeWays.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/91_DecodeWays.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/926_FlipStringToMonotoneIncreaseing.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/926_FlipStringToMonotoneIncreaseing.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/92_ReverseLinkedListII.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/92_ReverseLinkedListII.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/93_RestoreIPAddresses.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/93_RestoreIPAddresses.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/946_ValidateStackSequences.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/946_ValidateStackSequences.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/94_BinaryTreeInorderTraversal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/94_BinaryTreeInorderTraversal.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/96_UniqueBinarySearchTrees.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/96_UniqueBinarySearchTrees.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/98_ValidateBinarySearchTree.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/98_ValidateBinarySearchTree.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Extension.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/Extension.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/ListNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeNode.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/TreeNode.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_116_PopulatingNextRightPointersInEachNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_116_PopulatingNextRightPointersInEachNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_117_PopulatingNextRightPointersInEachNodeII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_117_PopulatingNextRightPointersInEachNodeII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_138_CopyListWithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_138_CopyListWithRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_141_LinkedListCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_141_LinkedListCycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_142_LinkedListCycleII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_142_LinkedListCycleII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_160_IntersectionOfTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_160_IntersectionOfTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_190_ReverseBits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_190_ReverseBits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_191_NumberOf1Bits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_191_NumberOf1Bits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_235_LowestCommonAncestorOfABinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_235_LowestCommonAncestorOfABinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_236_LowestCommonAncestorOfABinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_236_LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_237_DeleteNodeInALinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_237_DeleteNodeInALinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_278_FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_278_FirstBadVersion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_284_PeekingIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kotlincode/_284_PeekingIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/binarysearch/Solution153.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Solution153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/binarysearch/Solution33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Solution33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacode/binarysearch/Solution875.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacode/Solution875.java" afterDir="false" />
+    </list>
+    <list id="8b57e5ea-71bd-413f-b071-aef25b90342c" name="Revert &quot;22&quot;" comment="Revert &quot;22&quot;&#10;&#10;This reverts commit 335aa60a" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SearchInR</find>
+      <find>SubS</find>
+      <find>kotlin</find>
+      <find>Linked</find>
+      <find>Rota</find>
+      <find>dakai1</find>
+      <find>sund</find>
+      <find>Three</find>
+      <find>Coin</find>
+      <find>Treenode</find>
+      <find>findMiss</find>
+      <find>Missi</find>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="89" />
+    <option name="y" value="27" />
+    <option name="width" value="1680" />
+    <option name="height" value="935" />
+  </component>
+  <component name="ProjectId" id="1i8M6dHjHIrZDWTW8RohzMczoHL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Solution2.test">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution33.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java" />
+      <option name="MAIN_CLASS_NAME" value="java.Solution33" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution33.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javacode.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="javacode.binarysearch.Solution33" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution378.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javacode.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="javacode.binarysearch.Solution378" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3_LongestSubstring.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javacode" />
+      <option name="MAIN_CLASS_NAME" value="javacode.Solution3_LongestSubstring" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution875.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacode.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="javacode.binarysearch" />
+      <option name="MAIN_CLASS_NAME" value="javacode.binarysearch.Solution875" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Solution2.test" />
+        <item itemvalue="JUnit.Solution3_LongestSubstring.test" />
+        <item itemvalue="JUnit.Solution378.test" />
+        <item itemvalue="JUnit.Solution875.test" />
+        <item itemvalue="JUnit.Solution33.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b595bdda-c953-4077-8262-7169a053de6f" name="Default Changelist" comment="" />
+      <created>1560162522970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560162522970</updated>
+      <workItem from="1560162531214" duration="6181000" />
+      <workItem from="1560217143840" duration="1981000" />
+      <workItem from="1560225458081" duration="2786000" />
+      <workItem from="1560316027330" duration="5344000" />
+      <workItem from="1561442827992" duration="2444000" />
+      <workItem from="1561452534130" duration="3824000" />
+      <workItem from="1561513773675" duration="369000" />
+      <workItem from="1561516930372" duration="6855000" />
+      <workItem from="1561600157403" duration="776000" />
+      <workItem from="1561603977720" duration="1381000" />
+      <workItem from="1561612884442" duration="12003000" />
+      <workItem from="1561634395220" duration="23000" />
+      <workItem from="1561687432957" duration="26246000" />
+      <workItem from="1561945838445" duration="4000" />
+      <workItem from="1561945867046" duration="8950000" />
+      <workItem from="1562121916831" duration="4250000" />
+      <workItem from="1562295739932" duration="10635000" />
+      <workItem from="1562343181225" duration="22408000" />
+      <workItem from="1562558184101" duration="3282000" />
+      <workItem from="1562636052609" duration="10733000" />
+      <workItem from="1562741695992" duration="5874000" />
+      <workItem from="1562767412957" duration="355000" />
+      <workItem from="1562826880624" duration="46739000" />
+      <workItem from="1563242464915" duration="412000" />
+      <workItem from="1563357500120" duration="881000" />
+      <workItem from="1563367903850" duration="14197000" />
+      <workItem from="1563467274339" duration="101000" />
+      <workItem from="1563504376002" duration="6816000" />
+      <workItem from="1564120081709" duration="7972000" />
+      <workItem from="1564210138784" duration="2944000" />
+      <workItem from="1564313826345" duration="1940000" />
+      <workItem from="1564472895786" duration="3934000" />
+      <workItem from="1564487777469" duration="4349000" />
+      <workItem from="1564570089836" duration="1175000" />
+      <workItem from="1564571998125" duration="2520000" />
+      <workItem from="1564585860600" duration="18753000" />
+      <workItem from="1564665639482" duration="658000" />
+      <workItem from="1564743529649" duration="12362000" />
+      <workItem from="1564993108179" duration="6953000" />
+      <workItem from="1565063873979" duration="8326000" />
+      <workItem from="1565190687045" duration="2383000" />
+      <workItem from="1565228464045" duration="10223000" />
+      <workItem from="1565320422469" duration="7109000" />
+      <workItem from="1565524161232" duration="3017000" />
+      <workItem from="1565593167236" duration="6760000" />
+      <workItem from="1565658476052" duration="7788000" />
+      <workItem from="1565682420560" duration="1074000" />
+      <workItem from="1565685784990" duration="1350000" />
+      <workItem from="1565687295992" duration="11000" />
+      <workItem from="1565751676046" duration="3176000" />
+      <workItem from="1565761328636" duration="5542000" />
+      <workItem from="1565772756095" duration="941000" />
+      <workItem from="1565846703307" duration="15127000" />
+      <workItem from="1566056140987" duration="1189000" />
+      <workItem from="1566097779188" duration="358000" />
+      <workItem from="1566117362644" duration="6095000" />
+      <workItem from="1566313791107" duration="927000" />
+      <workItem from="1566468426035" duration="310000" />
+      <workItem from="1566536766397" duration="15740000" />
+      <workItem from="1566568178521" duration="13000" />
+      <workItem from="1566720107871" duration="13921000" />
+      <workItem from="1566788170162" duration="4124000" />
+      <workItem from="1566823203750" duration="8981000" />
+      <workItem from="1567001213496" duration="1450000" />
+      <workItem from="1567146289954" duration="722000" />
+      <workItem from="1567266287134" duration="1101000" />
+      <workItem from="1567306033139" duration="2000" />
+      <workItem from="1567346932019" duration="1713000" />
+      <workItem from="1567405648378" duration="3345000" />
+      <workItem from="1567410675428" duration="4154000" />
+      <workItem from="1567479367254" duration="2233000" />
+      <workItem from="1567564318333" duration="6527000" />
+      <workItem from="1567732597094" duration="779000" />
+      <workItem from="1567746682316" duration="9552000" />
+      <workItem from="1568098977620" duration="17758000" />
+      <workItem from="1568272920625" duration="17936000" />
+      <workItem from="1568856047696" duration="11304000" />
+      <workItem from="1568941301710" duration="322000" />
+      <workItem from="1568957602554" duration="15490000" />
+      <workItem from="1569405801882" duration="647000" />
+      <workItem from="1569463974555" duration="18383000" />
+      <workItem from="1579531145101" duration="511000" />
+      <workItem from="1584523186348" duration="135000" />
+      <workItem from="1584523534588" duration="763000" />
+      <workItem from="1587031623761" duration="886000" />
+      <workItem from="1587053898545" duration="222000" />
+      <workItem from="1587480762963" duration="39000" />
+      <workItem from="1587833536606" duration="99000" />
+      <workItem from="1595139641440" duration="972000" />
+      <workItem from="1601234088225" duration="218000" />
+      <workItem from="1601234337120" duration="202000" />
+      <workItem from="1601234544246" duration="3431000" />
+      <workItem from="1601284596183" duration="27000" />
+      <workItem from="1601462764477" duration="104000" />
+      <workItem from="1601540928220" duration="8000" />
+      <workItem from="1608116251605" duration="1709000" />
+      <workItem from="1608118045650" duration="556000" />
+      <workItem from="1608120569208" duration="265000" />
+      <workItem from="1608120841204" duration="1826000" />
+      <workItem from="1608128313811" duration="5322000" />
+      <workItem from="1608166993428" duration="93000" />
+      <workItem from="1608234042010" duration="4448000" />
+      <workItem from="1608325414870" duration="5367000" />
+      <workItem from="1608600560453" duration="4564000" />
+      <workItem from="1608670929872" duration="262000" />
+      <workItem from="1608849278078" duration="4061000" />
+      <workItem from="1609012619973" duration="3815000" />
+    </task>
+    <task id="LOCAL-00118" summary="add solution1025">
+      <created>1567930178854</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1567930178855</updated>
+    </task>
+    <task id="LOCAL-00119" summary="add solution201">
+      <created>1568172475255</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1568172475256</updated>
+    </task>
+    <task id="LOCAL-00120" summary="add solution204">
+      <created>1568179167614</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1568179167614</updated>
+    </task>
+    <task id="LOCAL-00121" summary="add solution205">
+      <created>1568198912591</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1568198912591</updated>
+    </task>
+    <task id="LOCAL-00122" summary="add solution206">
+      <created>1568205146430</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1568205146430</updated>
+    </task>
+    <task id="LOCAL-00123" summary="add solution215">
+      <created>1568283718568</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1568283718570</updated>
+    </task>
+    <task id="LOCAL-00124" summary="add solution202">
+      <created>1568602085734</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1568602085734</updated>
+    </task>
+    <task id="LOCAL-00125" summary="add solution215">
+      <created>1568603223122</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1568603223122</updated>
+    </task>
+    <task id="LOCAL-00126" summary="add solution217">
+      <created>1568603480844</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1568603480844</updated>
+    </task>
+    <task id="LOCAL-00127" summary="add solution219">
+      <created>1568604829352</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1568604829352</updated>
+    </task>
+    <task id="LOCAL-00128" summary="add solution222">
+      <created>1568628836829</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1568628836829</updated>
+    </task>
+    <task id="LOCAL-00129" summary="add solution225">
+      <created>1568857614454</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1568857614455</updated>
+    </task>
+    <task id="LOCAL-00130" summary="add solution216">
+      <created>1568873106651</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1568873106651</updated>
+    </task>
+    <task id="LOCAL-00131" summary="add solution227">
+      <created>1568876798196</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1568876798197</updated>
+    </task>
+    <task id="LOCAL-00132" summary="add solution228">
+      <created>1568877567214</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1568877567215</updated>
+    </task>
+    <task id="LOCAL-00133" summary="add solution223">
+      <created>1568880184752</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1568880184752</updated>
+    </task>
+    <task id="LOCAL-00134" summary="add solution268">
+      <created>1568969424136</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1568969424139</updated>
+    </task>
+    <task id="LOCAL-00135" summary="add solution258">
+      <created>1568969844098</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1568969844098</updated>
+    </task>
+    <task id="LOCAL-00136" summary="add solution274">
+      <created>1568991745593</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1568991745593</updated>
+    </task>
+    <task id="LOCAL-00137" summary="add solution275">
+      <created>1569303013109</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1569303013109</updated>
+    </task>
+    <task id="LOCAL-00138" summary="add solution284">
+      <created>1569304456290</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1569304456290</updated>
+    </task>
+    <task id="LOCAL-00139" summary="add solution260">
+      <created>1569306661486</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1569306661486</updated>
+    </task>
+    <task id="LOCAL-00140" summary="add solution290">
+      <created>1569311738891</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1569311738891</updated>
+    </task>
+    <task id="LOCAL-00141" summary="add solution287">
+      <created>1569467556104</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1569467556105</updated>
+    </task>
+    <task id="LOCAL-00142" summary="add solution289">
+      <created>1569469987747</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1569469987747</updated>
+    </task>
+    <task id="LOCAL-00143" summary="add solution299">
+      <created>1569475704581</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1569475704581</updated>
+    </task>
+    <task id="LOCAL-00144" summary="add solution232">
+      <created>1569478210487</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1569478210487</updated>
+    </task>
+    <task id="LOCAL-00145" summary="add solution234">
+      <created>1569483121202</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1569483121202</updated>
+    </task>
+    <task id="LOCAL-00146" summary="add solution235">
+      <created>1569485768699</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1569485768699</updated>
+    </task>
+    <task id="LOCAL-00147" summary="add solution236">
+      <created>1569489033454</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1569489033454</updated>
+    </task>
+    <task id="LOCAL-00148" summary="add solution237">
+      <created>1569490226860</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1569490226860</updated>
+    </task>
+    <task id="LOCAL-00149" summary="add solution240">
+      <created>1569490679133</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1569490679133</updated>
+    </task>
+    <task id="LOCAL-00150" summary="add solution242">
+      <created>1569581509660</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1569581509660</updated>
+    </task>
+    <task id="LOCAL-00151" summary="add solution3">
+      <created>1608117270058</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1608117270059</updated>
+    </task>
+    <task id="LOCAL-00152" summary="git test">
+      <created>1608117844077</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1608117844077</updated>
+    </task>
+    <task id="LOCAL-00153" summary="git test">
+      <created>1608118180593</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1608118180594</updated>
+    </task>
+    <task id="LOCAL-00154" summary="git test">
+      <created>1608118318108</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1608118318109</updated>
+    </task>
+    <task id="LOCAL-00155" summary="git test">
+      <created>1608118403150</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1608118403150</updated>
+    </task>
+    <task id="LOCAL-00156" summary="git test">
+      <created>1608118486177</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1608118486177</updated>
+    </task>
+    <task id="LOCAL-00157" summary="add solution 2">
+      <created>1608122177491</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1608122177491</updated>
+    </task>
+    <task id="LOCAL-00158" summary="add solution 2">
+      <created>1608122196469</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1608122196469</updated>
+    </task>
+    <task id="LOCAL-00159" summary="add solution2">
+      <created>1608159725026</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1608159725027</updated>
+    </task>
+    <task id="LOCAL-00160" summary="add solution13">
+      <created>1608163590117</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1608163590117</updated>
+    </task>
+    <task id="LOCAL-00161" summary="add solution926">
+      <created>1608326936928</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1608326936928</updated>
+    </task>
+    <task id="LOCAL-00162" summary="add solution845">
+      <created>1608332566764</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1608332566764</updated>
+    </task>
+    <task id="LOCAL-00163" summary="add java code 33">
+      <created>1608604604043</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1608604604044</updated>
+    </task>
+    <task id="LOCAL-00164" summary="add Solution153">
+      <created>1608647436911</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1608647436911</updated>
+    </task>
+    <task id="LOCAL-00165" summary="add Solution153">
+      <created>1608647450349</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1608647450350</updated>
+    </task>
+    <task id="LOCAL-00166" summary="add Solution875">
+      <created>1608850660385</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1608850660385</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Solution234_test - 2019.09.26 at 15h 29m 14s.xml">
+      <configuration name="Solution234.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Solution234_test - 2019.09.26 at 15h 29m 22s.xml">
+      <configuration name="Solution234.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Sort_test - 2020.09.27 at 20h 53m 27s.xml">
+      <configuration name="Sort.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 17m 08s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 17m 46s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 19m 07s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 26m 11s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 26m 59s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 27m 07s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test11_test - 2020.09.27 at 21h 27m 15s.xml">
+      <configuration name="Test11.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="89" y="27" width="1680" height="935" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add solution274" />
+    <MESSAGE value="add solution275" />
+    <MESSAGE value="add solution284" />
+    <MESSAGE value="add solution260" />
+    <MESSAGE value="add solution290" />
+    <MESSAGE value="add solution287" />
+    <MESSAGE value="add solution289" />
+    <MESSAGE value="add solution299" />
+    <MESSAGE value="add solution232" />
+    <MESSAGE value="add solution234" />
+    <MESSAGE value="add solution235" />
+    <MESSAGE value="add solution236" />
+    <MESSAGE value="add solution237" />
+    <MESSAGE value="add solution240" />
+    <MESSAGE value="add solution242" />
+    <MESSAGE value="add solution3" />
+    <MESSAGE value="git test" />
+    <MESSAGE value="add solution 2" />
+    <MESSAGE value="add solution2" />
+    <MESSAGE value="add solution13" />
+    <MESSAGE value="add solution926" />
+    <MESSAGE value="add solution845" />
+    <MESSAGE value="add java code 33" />
+    <MESSAGE value="add Solution153" />
+    <MESSAGE value="add Solution875" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Solution875" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/25_ReverseNodesInKGroup.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/26_RemoveDuplicatesFromSortedArray.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/26_RemoveDuplicatesFromSortedArray.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/27_RemoveElement.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/31_NextPermutation.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/31_NextPermutation.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/39_CombinationSum.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/40_CombinationSumII.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/43_MultiplyStrings.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/43_MultiplyStrings.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/46_Permutations.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/47_PermutationsII.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/48_RotateImage.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/49_GroupAnagrams.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/543_DiameterOfBinaryTree.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/45_JumpGameII.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/88_MegeSortedArray.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/89_GrayCode.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/146_LRUCache.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/148_SortList.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/148_SortList.kt</url>
+          <line>61</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/230_KthSmallElementInBST.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/51_N-Queens.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/51_N-Queens.kt</url>
+          <line>34</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/52_N-QueensII.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/51_N-Queens.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/57_InsertInterval.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/60_PermutationSequence.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/60_PermutationSequence.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/60_PermutationSequence.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/67_AddBinary.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/67_AddBinary.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/67_AddBinary.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt</url>
+          <line>56</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt</url>
+          <line>36</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/73_SetMatrixZeroes.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/77_Combinations.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/80_RemoveDuplicatesFromSortedArrayII.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/69_Sqrt(x).kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/86_PartitionList.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/90_SubsetII.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/90_SubsetII.kt</url>
+          <line>58</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/90_SubsetII.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/sort/Sort.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/101_SymmetricTree.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/101_SymmetricTree.kt</url>
+          <line>43</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/106_ConstructBinaryTreefromInorderAndPostorderTraversal.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/106_ConstructBinaryTreefromInorderAndPostorderTraversal.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/110_BalancedBinaryTree.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/111_MinimumDepthOfBinaryTree.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/114_FlattenBinaryTreeToLinkedList.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/118_Pascal'sTriangle.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/125_Valid_Palindrome.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/129_SumRootToLeafNumbers.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/129_SumRootToLeafNumbers.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/131_PalindromePartitioning.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/131_PalindromePartitioning.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/28_ImplementStrStr().kt</url>
+          <line>100</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/139_WordBreak.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/137_SingleNumberII.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/137_SingleNumberII.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/33_SearchInRotatedSortedArray.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/4_MedianOfTwoSortedArrays.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/10_RegularExpressionMatching.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/10_RegularExpressionMatching.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/18_4Sum.kt</url>
+          <line>13</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/18_4Sum.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/18_4Sum.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/93_RestoreIPAddresses.kt</url>
+          <line>25</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/93_RestoreIPAddresses.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/153_ FindMinimumInRotatedSortedArray.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/165_CompareVersionNumbers.kt</url>
+          <line>65</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/166_FractionToRecurringDecimal.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/166_FractionToRecurringDecimal.kt</url>
+          <line>38</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/168_ExcelSheetColumnTitle.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="182" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/150_EvaluateReversePolishNotation.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/189_RotateArray.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/199_BinaryTreeRightSideView.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/147_InsertionSortList.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/525_ContiguousArray.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/201_BitwiseANDofNumbersRange.kt</url>
+          <line>17</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/201_BitwiseANDofNumbersRange.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/215. KthLargestElementInanArray.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/215. KthLargestElementInanArray.kt</url>
+          <line>11</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/202_HappyNumber.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/219_ContainsDuplicateII.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/219_ContainsDuplicateII.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/225_ImplementStackUsingQueues.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/227_BasicCalculatorII.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/223_RectangleArea.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/275_H-IndexII.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/260_SingleNumberIII.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/290_WordPattern.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/289_GameOfLife.kt</url>
+          <line>50</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/289_GameOfLife.kt</url>
+          <line>18</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/299_BullsAndCows.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/299_BullsAndCows.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/845_LongestMountainInArray.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/845_LongestMountainInArray.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/_190_ReverseBits.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/kotlincode/_190_ReverseBits.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Test.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javacode/Solution875.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javacode/Solution378.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/javacode/Solution378.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit:junit:4.13</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
