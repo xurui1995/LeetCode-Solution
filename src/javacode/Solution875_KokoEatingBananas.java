@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.stream.IntStream;
 
-public class Solution875 {
+public class Solution875_KokoEatingBananas {
 
     @Test
     public void test() {
