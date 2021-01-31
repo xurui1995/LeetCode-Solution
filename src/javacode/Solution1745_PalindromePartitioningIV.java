@@ -1,6 +1,6 @@
 package javacode;
 
-public class Solution1754_PalindromePartitioningIV {
+public class Solution1745_PalindromePartitioningIV {
     public boolean checkPartitioning(String s) {
         boolean[][] flags = new boolean[s.length()][s.length()];
         for (int i = 0; i < s.length(); i++) {
